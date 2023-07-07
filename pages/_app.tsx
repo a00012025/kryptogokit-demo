@@ -18,7 +18,7 @@ const { chains, publicClient, webSocketPublicClient } = configureChains(
 
 const { connectors } = getDefaultWallets({
   appName: 'KryptoGOKit App',
-  projectId: 'YOUR_PROJECT_ID',
+  projectId: 'a455717b7bc8d85d91ed496121ca6c2b',
   chains,
 });
 
